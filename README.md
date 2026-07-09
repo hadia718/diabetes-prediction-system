@@ -53,7 +53,6 @@ A machine learning model that analyzes clinical health data — including Glucos
 
 - `Diabetes_Prediction_System.ipynb` — Full notebook with step-by-step code, explanations, training, and evaluation.
 - `diabetes_data.csv` — Sample dataset used for training and testing.
-- `link.txt` — Link to the deployed web application.
 
 ## Conclusion
 
